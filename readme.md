@@ -1,0 +1,1 @@
+Refer for report : https://github.com/LironEr/cypress-mochawesome-reporter
